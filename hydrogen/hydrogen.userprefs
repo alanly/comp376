@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Development\unity\turrim\Turrim\Assets\Code\Scripts\UI\Menu\MenuBehaviour.cs">
+    <Files>
+      <File FileName="..\..\..\Development\unity\turrim\Turrim\Assets\Code\Logic\Util\GameController.cs" Line="25" Column="42" />
+      <File FileName="..\..\..\Development\unity\turrim\Turrim\Assets\Code\Scripts\UI\Menu\MenuBehaviour.cs" Line="20" Column="39" />
+      <File FileName="..\..\..\Development\unity\turrim\Turrim\Assets\Code\Scripts\UI\Overlay\OverlayEffect.cs" Line="27" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
